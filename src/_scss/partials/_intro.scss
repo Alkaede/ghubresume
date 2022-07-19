@@ -1,0 +1,14 @@
+header{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 120px 100px;
+  height: 100vh;
+  margin: 0 auto;
+  max-width: 1440px;
+  font-size: 2.5rem;
+
+  h2{
+    font-weight: 700;
+  }
+}
