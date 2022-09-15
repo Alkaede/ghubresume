@@ -13,7 +13,7 @@ function App() {
       <section className="section_background">
         <div className="section_title">Background</div>
         <div className="section_content">
-          <p><span></span>I graduated a rigorous six-month long bootcamp, learning from the very basics to advanced site structures, requiring not only determination but also the ability to critically think and problem solve.</p>
+          <p>I graduated a rigorous six-month long bootcamp, learning from the very basics to advanced site structures, requiring not only determination but also the ability to critically think and problem solve.</p>
           <p>My communication skills and problem solving allow me to be a valuable asset to any team that I am a part of. I provide the essentials when it comes to group thinking and finding the best solutions to the puzzle of making websites functional and appealing.</p>
           <p>If I'm not behind my keyboard typing up a storm, I'm usually thinking of new Magic the Gathering decks to brew, trying to further my learning in Japanese and German, or taking a breather taking in everything with my cat.</p>
         </div>
