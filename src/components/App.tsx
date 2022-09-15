@@ -10,16 +10,16 @@ function App() {
         <h3>Get in touch with me on LinkedIn</h3>
       </header>
 
-      <section className="section background">
+      <section className="section_background">
         <div className="section_title">Background</div>
         <div className="section_content">
-          <p>I graduated a rigorous six-month long bootcamp, learning from the very basics to advanced site structures, requiring not only determination but also the ability to critically think and problem solve.</p>
-          <p>My communication skills and problem solving allow me to be a valuable asset to any team that I am a part of. I provide the essentials when it comes to group thinking and finding the best solutions to the puzzle of making websites functional and appealing</p>
+          <p><span></span>I graduated a rigorous six-month long bootcamp, learning from the very basics to advanced site structures, requiring not only determination but also the ability to critically think and problem solve.</p>
+          <p>My communication skills and problem solving allow me to be a valuable asset to any team that I am a part of. I provide the essentials when it comes to group thinking and finding the best solutions to the puzzle of making websites functional and appealing.</p>
           <p>If I'm not behind my keyboard typing up a storm, I'm usually thinking of new Magic the Gathering decks to brew, trying to further my learning in Japanese and German, or taking a breather taking in everything with my cat.</p>
         </div>
       </section>
 
-      <section className="section skills">
+      <section className="section_skills">
         <div className="section_title">Skills</div>
         <div className="section_content">
           <div className="skills">
@@ -40,7 +40,6 @@ function App() {
                 <li className="skills_category_item">React</li>
                 <li className="skills_category_item">NodeJS</li>
                 <li className="skills_category_item">Express</li>
-                <li className="skills_category_item">KnexJS</li>
               </ul>
             </div>
 
@@ -53,16 +52,13 @@ function App() {
                 <li className="skills_category_item">Bash</li>
               </ul>
             </div>
-
-
           </div>
         </div>
       </section>
 
 
+
     </div>
-
-
   );
 }
 

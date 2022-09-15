@@ -1,14 +1,15 @@
-.section_background{
+.section_skills{
   font-size: 1.5rem;
   display: flex;
   justify-content: center;
   padding: 100px 170px;
   line-height: 1.5;
 
+
   .section_title{
     flex-shrink: 0;
     width: 200px;
-    margin-top: 12px;
+    margin-top: -7px;
     margin-right: 70px;
     color: #007bff;
     text-transform: uppercase;
@@ -23,13 +24,15 @@
     width: 100%;
     max-width: 650px;
 
-    p{
-      display: block;
-      margin-block-start: 1em;
-      margin-block-end: 1em;
-      margin-inline-start: 0px;
-      margin-inline-end: 0px;
-    }
+    .skills{
+      display: flex;
+      justify-content: space-between;
 
+      .skills_label{
+        font-weight: 700;
+        color: #36353c;
+        text-transform: uppercase;
+      }
+    }
   }
 }
