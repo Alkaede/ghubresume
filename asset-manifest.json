@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ghubresume/static/css/main.5b861685.css",
+    "main.js": "/ghubresume/static/js/main.21bbb774.js",
+    "index.html": "/ghubresume/index.html",
+    "main.5b861685.css.map": "/ghubresume/static/css/main.5b861685.css.map",
+    "main.21bbb774.js.map": "/ghubresume/static/js/main.21bbb774.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b861685.css",
+    "static/js/main.21bbb774.js"
+  ]
+}
