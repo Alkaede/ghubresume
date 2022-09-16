@@ -8,7 +8,6 @@ function App() {
         <h1>Hello 👋</h1>
         <h2>I am <span className='name'>Andrew Castillo</span>, I'm a full-stack software engineer passionate on building functional interfaces and useful products through critical thinking and collaboration &#129302;</h2>
         <h3>Get in touch with me &#128073; <a href='https://www.linkedin.com/in/andrew-castillo-9b69a4140/'>LinkedIn</a></h3>
-        {/* test adding comment to see whats wrong */}
       </header>
 
       <section className="section_background">
